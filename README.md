@@ -9,4 +9,5 @@ python3 CreateAutoExecFile.py
 
 To run the file you created just type into terminal
 
+cd FILELOCATION
 python3 FILEYOUCREATED.py
